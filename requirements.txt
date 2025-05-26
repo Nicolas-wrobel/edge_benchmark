@@ -1,0 +1,8 @@
+networkx
+numpy
+scipy
+psutil
+torch>=2.1   # ou roue Jetson
+torch_geometric>=2.2
+torch_scatter>=2.1
+torch_sparse>=0.6

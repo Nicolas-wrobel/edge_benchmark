@@ -1,0 +1,4 @@
+graph,algo,mode,access,activation,backend,platform,time_s,iterations,unreachable,edges,rss_MB,cpu_pct,avg_watt
+datasets/ca-GrQc.edgelist,bfs,sync,pull,topo,gpu,Jetson,7.599312,1,,28980,2118.3,0.0,2.99
+datasets/ca-GrQc.edgelist,bfs,sync,pull,topo,gpu,Jetson,10.943701,1,,28980,2119.1,0.0,2.83
+datasets/ca-GrQc.edgelist,bfs,sync,pull,topo,gpu,Jetson,7.261251,12,,26850,2110.3,0.0,2.91

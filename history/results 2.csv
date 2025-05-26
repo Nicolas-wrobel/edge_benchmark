@@ -1,0 +1,5 @@
+graph,algo,mode,access,activation,backend,platform,time_s,iterations,unreachable,edges,rss_MB,cpu_pct,avg_watt
+datasets/ca-GrQc.edgelist,bfs,sync,pull,topo,cpu,PC,0.007905,12,,26850,78.9,0.0,
+datasets/ca-GrQc.edgelist,bfs,sync,pull,topo,cpu,PC,0.008521,12,,26850,226.7,0.0,
+datasets/ca-GrQc.edgelist,bfs,sync,pull,topo,cpu,PC,0.017009,12,,26850,227.3,0.0,
+datasets/email-Eu-core.edgelist,pagerank,sync,pull,topo,cpu,PC,0.29652,24584,,1183183,222.7,0.0,
